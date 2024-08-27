@@ -15,7 +15,10 @@
 <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
 <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
 <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/docker/original-wordmark.svg"></img>
+<br>
 
+![GermanMorini's Stats](https://github-readme-stats.vercel.app/api?username=GermanMorini&theme=material-palenight&show_icons=true&hide_border=false&count_private=false)
+![GermanMorini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanMorini&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **GermanMorini/GermanMorini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
