@@ -1,8 +1,7 @@
 ## Sobre mi 😃
 
-- Scripting para la terminal ⌨️🖥️
-- Blues y jazz 🎵🎸🎷
-- Ejercicio 🏋🏼‍♂️
+Actualmente soy estudiante de Ingenieria de sistemas en la universidad católica de Córdoba, en busca de especializarme en desarrollo backend
+Algunos de mis proyectos personales son scripts para la terminal, APIs y aplicaciónes de escritorio
 
 ## Lenguajes y herramientas 🧰
 
@@ -18,7 +17,11 @@
 <br>
 <br>
 
-![GermanMorini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanMorini&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+![GermanMorini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanMorini&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+## Logros 🏆
+
+- 3er puesto Hackaton UCC 2023
 
 <!--
 **GermanMorini/GermanMorini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
