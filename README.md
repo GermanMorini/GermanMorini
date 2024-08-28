@@ -21,7 +21,7 @@ Algunos de mis proyectos personales son scripts para la terminal en golang/bash,
 <br>
 <br>
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanMorini&theme=dark&show_icons=true&hide_border=true&layout=compact"></img>
+<!-- <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanMorini&theme=dark&show_icons=true&hide_border=true&layout=compact"></img> -->
 
 
 - ☕ java, javafx, spring
