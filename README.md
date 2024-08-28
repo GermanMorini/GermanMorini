@@ -8,13 +8,13 @@ Algunos de mis proyectos personales son scripts para la terminal, APIs y aplicac
 
 <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/java/original.svg"></img>
 <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/go/original-wordmark.svg"></img>
+<img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
+<img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/bash/original.svg"></img>
+<img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
+<img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/docker/original-wordmark.svg"></img>
 <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
 <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
 <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
-<img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/bash/original.svg"></img>
-<img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
-<img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
-<img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/docker/original-wordmark.svg"></img>
 <br>
 <br>
 
