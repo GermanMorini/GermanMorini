@@ -19,10 +19,9 @@ Algunos de mis proyectos personales son scripts para la terminal en golang/bash,
   <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>  
 </div>
 <br>
+<br>
 
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanMorini&theme=dark&show_icons=true&hide_border=true&layout=compact"></img>
-</div>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanMorini&theme=dark&show_icons=true&hide_border=true&layout=compact"></img>
 
 
 - ☕ java, javafx, spring
@@ -33,13 +32,11 @@ Algunos de mis proyectos personales son scripts para la terminal en golang/bash,
 
 - 3er puesto Hackaton UCC 2023
 
-## Contacto 
+## Contacto 📨
 
-<div align="center>
-  <a href="mailto:germorini25@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>  
-</div>
+<a href="mailto:germorini25@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</a>  
 
 <!--
 **GermanMorini/GermanMorini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
