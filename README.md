@@ -2,7 +2,7 @@
 
 Actualmente soy estudiante de Ingenieria de sistemas en la universidad católica de Córdoba, en busca de especializarme en desarrollo backend
 
-Algunos de mis proyectos personales son scripts para la terminal, APIs y aplicaciónes de escritorio
+Algunos de mis proyectos personales son scripts para la terminal, APIs y aplicaciónes de escritorio, además de los ejercicios hechos en clase de programación
 
 ## Lenguajes y herramientas 🧰
 
