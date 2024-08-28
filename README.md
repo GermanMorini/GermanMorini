@@ -1,12 +1,13 @@
-## Sobre mi 😃
+## $ whoami 😃
 
 Actualmente soy estudiante de Ingenieria de sistemas en la universidad católica de Córdoba, en busca de especializarme en desarrollo backend
 
-Algunos de mis proyectos personales son scripts para la terminal, APIs y aplicaciónes de escritorio, además de los ejercicios hechos en clase de programación
+Algunos de mis proyectos personales son scripts para la terminal en golang/bash, APIs en java spring y aplicaciónes de escritorio en javafx, además de los ejercicios hechos en clase de programación
 
-## Lenguajes y herramientas 🧰
+## Lenguajes, herramientas y skills 🧰🏄
 
 <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/java/original.svg"></img>
+<img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/spring/original.svg"></img>
 <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/go/original-wordmark.svg"></img>
 <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
 <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/bash/original.svg"></img>
@@ -20,6 +21,10 @@ Algunos de mis proyectos personales son scripts para la terminal, APIs y aplicac
 
 ![GermanMorini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanMorini&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
+- ☕ java, javafx, spring
+- ⌨️ bash scripting, terminal, ssh
+- 🐳 docker, microservicios
+  
 ## Logros 🏆
 
 - 3er puesto Hackaton UCC 2023
