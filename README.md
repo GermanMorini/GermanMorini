@@ -1,8 +1,13 @@
+<div align="center">
+  <img src="img/banner.jpg">
+</div>
+
 ## $ whoami 😃
 
 Actualmente soy estudiante de Ingenieria de sistemas en la universidad católica de Córdoba, en busca de especializarme en desarrollo backend
 
 Algunos de mis proyectos personales son scripts para la terminal en golang/bash, APIs en java spring y aplicaciónes de escritorio en javafx, además de los ejercicios hechos en clase de programación
+
 
 ## Lenguajes, herramientas y skills 🧰🏄
 
