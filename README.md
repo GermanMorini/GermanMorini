@@ -6,7 +6,7 @@
 
 Actualmente soy estudiante de Ingenieria de sistemas en la universidad católica de Córdoba, en busca de especializarme en desarrollo backend
 
-Algunos de mis proyectos personales son scripts para la terminal en golang/bash, APIs en java spring dockerizadas y aplicaciónes de escritorio en javafx
+Algunos de mis proyectos personales son scripts para la terminal en `golang/bash`, APIs en `java spring` dockerizadas y aplicaciónes de escritorio en `javafx` con conexión a base de datos
 
 
 ## Lenguajes, herramientas y skills 🧰🏄
