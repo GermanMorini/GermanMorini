@@ -2,7 +2,7 @@
   <img src="img/banner.jpg">
 </div>
 
-## $ whoami 😃
+## 💲 whoami 😃
 
 Actualmente soy estudiante de Ingenieria de sistemas en la universidad católica de Córdoba, en busca de especializarme en desarrollo backend
 
