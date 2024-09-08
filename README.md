@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="img/banner.jpg">
+  <img src="src/matrix.gif" width="100%"/>
 </div>
 
-## 💲 whoami 😃
+## 💲 **whoami** 😃
 
 Actualmente soy estudiante de Ingenieria de sistemas en la universidad católica de Córdoba, en busca de especializarme en desarrollo backend
 
@@ -27,17 +27,3 @@ Algunos de mis proyectos personales son scripts para la terminal en `golang/bash
 <a href="mailto:germorini25@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>  
-
-<!-- esto es para el GIF de la terminal
-
-
-
-
-                        
-                        
-                        German Morini
-
-                      Software developer
-
-
--->
