@@ -11,23 +11,8 @@ Algunos de mis proyectos personales son scripts para la terminal en `golang/bash
 
 ## Lenguajes, herramientas y skills 🧰🏄
 
-<div align="center">
-  <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/java/original.svg"></img>
-  <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/spring/original.svg"></img>
-  <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/go/original-wordmark.svg"></img>
-  <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
-  <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/bash/original.svg"></img>
-  <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
-  <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/docker/original-wordmark.svg"></img>
-  <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
-  <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
-  <img align="left" style="padding-right:10px" width="30px" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>  
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,mysql,bash,linux,docker,html,css,js)](https://skillicons.dev)
 <br>
-<br>
-
-<!-- <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GermanMorini&theme=dark&show_icons=true&hide_border=true&layout=compact"></img> -->
-
 
 - ☕ java, javafx, spring
 - ⌨️ bash scripting, terminal, ssh
