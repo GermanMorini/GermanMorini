@@ -1,5 +1,6 @@
 <div align="center">
   <img src="src/matrix.gif" width="100%"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GermanMorini.GermanMorini" width="120px" />
 </div>
 
 ## 💲 **whoami** 😃
@@ -7,7 +8,6 @@
 Actualmente soy estudiante de Ingenieria de sistemas en la universidad católica de Córdoba, en busca de especializarme en desarrollo backend
 
 Algunos de mis proyectos personales son scripts para la terminal en `golang/bash`, APIs en `java spring` dockerizadas y aplicaciónes de escritorio en `javafx` con conexión a base de datos
-
 
 ## Lenguajes, herramientas y skills 🧰🏄
 
