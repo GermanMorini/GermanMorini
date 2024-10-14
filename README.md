@@ -8,9 +8,6 @@ Actualmente soy estudiante de Ingenieria de sistemas en la universidad católica
 
 Algunos de mis proyectos personales son scripts para la terminal en `golang/bash`, APIs en `java spring` dockerizadas y aplicaciónes de escritorio en `javafx` con conexión a base de datos
 
-<br>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://visitor-badge.laobi.icu/badge?page_id=GermanMorini.GermanMorini" width="100px" /></a>
-
 ## Lenguajes, herramientas y skills 🧰🏄
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,bash,linux,html,css,js" />
