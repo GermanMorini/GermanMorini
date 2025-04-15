@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="src/jeffrey_banner.jpg" width="100%"/>
+  <img src="src/aqua.jpg" width="100%"/>
 </div>
 
 ## 💲 **whoami** 😃
