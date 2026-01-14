@@ -6,7 +6,7 @@
 
 Actualmente soy estudiante de Ingenieria de sistemas en la universidad católica de Córdoba, en busca de especializarme en desarrollo backend
 
-Algunos de mis proyectos personales son scripts para la terminal en `golang/bash`, APIs en `java spring` dockerizadas y aplicaciónes de escritorio en `javafx` con conexión a base de datos
+Algunos de mis proyectos personales son scripts para la terminal en `golang/bash`, APIs en `java spring` dockerizadas, aplicaciónes de escritorio en `javafx` con conexión a base de datos y aplicaciones de robótica
 
 ## Lenguajes, herramientas y skills 🧰🏄
 
@@ -16,10 +16,12 @@ Algunos de mis proyectos personales son scripts para la terminal en `golang/bash
 - ☕ java, javafx, spring
 - ⌨️ bash scripting, terminal, ssh
 - 🐳 docker, microservicios
+- 🤖 ROS2 con stack nav2 para navegación autónoma
   
 ## Logros 🏆
 
 - 3er puesto Hackaton UCC 2023
+- 1er puesto Hackaton UCC 2025
 
 ## Contacto 📨
 
