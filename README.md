@@ -10,7 +10,7 @@ Algunos de mis proyectos personales son scripts para la terminal en `golang/bash
 
 ## Lenguajes, herramientas y skills 🧰🏄
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,bash,linux,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,bash,linux,html,css,js,ros" />
 <br>
 
 - ☕ java, javafx, spring
