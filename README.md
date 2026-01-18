@@ -4,7 +4,7 @@
 
 ## 💲 **whoami** 😃
 
-Actualmente soy estudiante de Ingenieria de sistemas en la universidad católica de Córdoba, en busca de especializarme en desarrollo backend
+Estudiante de Ingenieria de sistemas en la universidad católica de Córdoba
 
 Algunos de mis proyectos personales son scripts para la terminal en `golang/bash`, APIs en `java spring` dockerizadas, aplicaciónes de escritorio en `javafx` con conexión a base de datos y aplicaciones de robótica
 
@@ -17,11 +17,6 @@ Algunos de mis proyectos personales son scripts para la terminal en `golang/bash
 - ⌨️ bash scripting, terminal, ssh
 - 🐳 docker, microservicios
 - 🤖 ROS2 con stack nav2 para navegación autónoma
-  
-## Logros 🏆
-
-- 3er puesto Hackaton UCC 2023
-- 1er puesto Hackaton UCC 2025
 
 ## Contacto 📨
 
